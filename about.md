@@ -1,6 +1,6 @@
 ---
 title: "About the Explorer"
-layout: layout.liquid
+layout: default.njk
 ---
 
 
