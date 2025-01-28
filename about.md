@@ -3,6 +3,10 @@ title: "About the Explorer"
 layout: default.njk
 ---
 
-I'm Josh Miller, an Information Science major with a strong interest in media and information. I am passionate about exploring how technology can enhance world engagement. I also have an entrepreneurial side, always looking for innovative ideas and opportunities to make a difference, whether through a startup or a community project. My laid-back personality makes it easy for me to connect with others, and I believe that collaboration is key to success. I take pride in my communication skills, as I enjoy conveying complex ideas in a relatable way. I aim to create a supportive environment that encourages creativity and teamwork. With my background in information science, a passion for media, and an entrepreneurial mindset, I am excited about the possibilities ahead and look forward to making a meaningful impact in my fields while enjoying the journey along the way. Outside of my studies, I enjoy a variety of activities that keep me balanced and engaged. 
+I'm Josh Miller, an Information Science major with a strong interest in media and information. I am passionate about exploring how technology can enhance world engagement. I also have an entrepreneurial side, always looking for innovative ideas and opportunities to make a difference, whether through a startup or a community project. My laid-back personality makes it easy for me to connect with others, and I believe that collaboration is key to success. I take pride in my communication skills, as I enjoy conveying complex ideas in a relatable way. I aim to create a supportive environment that encourages creativity and teamwork. With my background in information science, a passion for media, and an entrepreneurial mindset, I am excited about the possibilities ahead and look forward to making a meaningful impact in my fields while enjoying the journey along the way. Outside of my studies, I enjoy a variety of activities that keep me balanced and engaged
+
+Each day in space is an adventure, and I hope to share some of that with you. Whether it’s a new discovery, a profound moment of solitude, or a glance at the beauty of the cosmos, this blog is my way of communicating with the world I left behind.
+
+Thank you for following my journey.
 
 ---
